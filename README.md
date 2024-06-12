@@ -1,2 +1,6 @@
 # deep-learning-project
 Oral Cancer Detection using Deep Learning
+Oral cancer is one of the malignant neoplasms that develops most frequently in worldwide. Oral cancer progression is correlated having a number of associated risks. Oral cancer is a general disease which impacts the head & neck region. To develop a more effective treatment strategy for oral cancer at the earliest stages, experts need to first examine oral malignant lesions. 
+
+The primary risk factors to the growth of oral squamous cell carcinoma (OSCC) include heavy drinking and frequent smoking. Oral cancer seems to be more common in men than in women. Relapses of the disease can occasionally happen even after oral cancer has been effectively treated, so early detection and classification of oral cancer risk levels are very important. A computer-aided diagnostic system developed using deep learning has been successful in many applications and can quickly and accurately diagnose oral cancer lesions. Transfer learning can effectively manage the difficulty of obtaining large training datasets in medical image classification by retrieving the characteristics from a collection of natural images and adapting them to new image datasets. In proposed approach we intend to develop the model using transfer learning technique to accurately identify the oral cancer.
+![Uploading image.png…]()
